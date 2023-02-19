@@ -34,3 +34,9 @@ The system will be able to accurately detect whether people are wearing medical 
 ### Visulization
 <img width="765" alt="Screen Shot 2023-02-19 at 6 46 46 PM" src="https://user-images.githubusercontent.com/90078254/219982783-3db141e0-3722-4885-88ac-8a81c879a227.png">
 Note that for time saving, here we took our epochs as 20. For higher accuracy, we can make the epochs to be larger.
+
+### Reference:
+https://www.kaggle.com/code/aman10kr/face-mask-detection-using-ssd/notebook
+https://towardsdatascience.com/ssd-single-shot-detector-for-object-detection-using-multibox-1818603644ca
+
+https://towardsdatascience.com/ssd-single-shot-detector-for-object-detection-using-multibox-1818603644ca
