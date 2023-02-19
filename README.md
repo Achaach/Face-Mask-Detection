@@ -37,6 +37,5 @@ Note that for time saving, here we took our epochs as 20. For higher accuracy, w
 
 ### Reference:
 https://www.kaggle.com/code/aman10kr/face-mask-detection-using-ssd/notebook
-https://towardsdatascience.com/ssd-single-shot-detector-for-object-detection-using-multibox-1818603644ca
 
 https://towardsdatascience.com/ssd-single-shot-detector-for-object-detection-using-multibox-1818603644ca
